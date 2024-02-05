@@ -1,1 +1,5 @@
 # ZillowDataImputation
+
+## Motivation
+Machine learning is a data driven discipline which requires processing a high amount of data. High-quality datasets should be sufficiently large, containing a significant amount of data relevant to the problem at hand. They should also encompass important features that are crucial for accurately modeling the underlying phenomenon or task. Additionally, these datasets should exhibit consistency, meaning that the data should be reliable and stable, free from significant errors or inconsistencies that could lead to misleading results. One challenge in real-world Machine Learning applications is dealing with missing data in datasets. A common strategy to address this is data imputation, which involves replacing missing values with substitute values to retain the majority of the data and information in the dataset. In this project, I explored multivariate imputation with four widely used Machine Learning models, i.e. **Bayesian Ridge**, **K-Nearest Neighbor Regression**, **Random Forests Regression**, **Artificial Neural Network Regression**, on sparse datasets and compare their performance using standardized metrics.
+

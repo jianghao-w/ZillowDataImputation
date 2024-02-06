@@ -18,6 +18,7 @@ Machine learning is a data driven discipline which requires processing a high am
 Dataset: Zillow Housing 2016
 
 ![Image Alt text](/Image/Dataset.png)
+
 Figure 1. Correlation Matrix
 
 ## Result

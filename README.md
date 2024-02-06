@@ -2,7 +2,7 @@
 
 ## Intro
 
-This project aims to evaluate the effectiveness four Machine Learning Models -- **Bayesian Ridge**, **K-Nearest Neighbor Regression**, **Random Forests Regression**, **Artificial Neural Network Regression** -- in applying MICE (Multivariate Imputation By Chained Equations) on large sparse data.
+This project aims to evaluate the effectiveness four Machine Learning Models -- **Bayesian Ridge**, **K-Nearest Neighbor Regression**, **Random Forests Regression**, **Artificial Neural Network Regression**  -- as imputation strategies in applying MICE (Multivariate Imputation By Chained Equations) on large sparse dataset.
 
 
 ## Motivation

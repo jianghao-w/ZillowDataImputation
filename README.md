@@ -12,3 +12,9 @@ Machine learning is a data driven discipline which requires processing a high am
 ## Overview
 
 ![Image Alt text](/Image/Overview.png)
+
+## EDA
+
+![Image Alt text](/Image/Dataset.png)
+
+Dataset: Zillow Housing 2016

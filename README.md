@@ -24,11 +24,14 @@ Figure 1. Correlation Matrix
 ## Experimental Results
 
 **Without Dropping Perfect Correlated Features**
+
 ![Image Alt text](/Image/Result1.png)
 
 **Dropping Perfect Correlated Features**
+
 ![Image Alt text](/Image/Result2.png)
 
 
 **Performance(Running time)**
+
 ![Image Alt text](/Image/Time.png)

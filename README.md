@@ -21,6 +21,12 @@ Dataset: Zillow Housing 2016
 
 Figure 1. Correlation Matrix
 
-## Result
+## Experimental Results
+
+**Without Dropping Perfect Correlated Features**
+![Image Alt text](/Image/Result1.png)
+
+**Dropping Perfect Correlated Features**
+![Image Alt text](/Image/Result2.png)
 
 

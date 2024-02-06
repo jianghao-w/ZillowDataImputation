@@ -31,4 +31,4 @@ Figure 1. Correlation Matrix
 
 
 **Performance(Running time)**
-
+![Image Alt text](/Image/Time.png)

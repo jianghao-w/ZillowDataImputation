@@ -35,3 +35,14 @@ Figure 1. Correlation Matrix
 ### Performance(Running time)
 
 ![Image Alt text](/Image/Time.png)
+
+## Conclusion
+
+- MICE is a robust technique, while Single Imputation also yields sound results. The choice of imputation strategy depends on the dataset characteristics. There is no universally optimal approach for all datasets. 
+
+- Data pre-processing and hyperparameter tuning are crucial not only for optimizing machine learning models but also for selecting an effective imputation strategy.
+
+- Hyperparameter tuning for MICE can be time-consuming, particularly depending on the which imputation algorithm is selected.
+
+- If there are highly correlated features with the target variable, faster imputation methods like Mean Imputation or Bayesian Imputation would be sufficient.
+
